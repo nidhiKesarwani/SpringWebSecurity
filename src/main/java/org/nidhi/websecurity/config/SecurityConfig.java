@@ -52,7 +52,7 @@ public class SecurityConfig {
 //
 //        UserDetails user = User.builder()
 //              //  .passwordEncoder(new BCryptPasswordEncoder())
-//                .username("sona")
+//                .username("xyz")
 //                .password("1234")
 //                .roles("USER")
 //                .build();
